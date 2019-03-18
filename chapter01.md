@@ -10,7 +10,7 @@
   
 ### 第一节 计算机系统
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机系统组织结构图：
-![101计算机系统组成图](101计算机系统组成图.png)
+![101计算机系统组成图](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/101计算机系统组成图.png)
 
 
 ### 第二节 计算机硬件
@@ -35,7 +35,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;冯·诺依曼（John von Neumann，1903~1957），原籍匈牙利，布达佩斯大学数学博士。20世纪最重要的数学家之一，在现代计算机、博弈论、核武器和生化武器等领域内的科学全才之一，被后人称为“计算机之父”和“博弈论之父”。  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;冯·诺依曼体系结构： 1946年数学家冯·诺依曼于提出，计算机硬件由运算器、控制器、存储器、输入设备和输出设备五大部分组成。  
-![102冯诺依曼](102冯诺依曼.png)
+![102冯诺依曼](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/102冯诺依曼.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;经证实，世界上的第一台计算机应为“ABC”。1941年，“ENIAC”的发明者之一莫科里在阿坦纳索夫家借住5天，借此机会盗取了研究成果及想法，之后与埃克特一起制造了“ENIAC”并申请了专利，被世人称为“现代计算机之父”而阿坦纳索夫并未重视自己的重大发明“ABC”，学校也没有重视此项发明，并拆掉了“ABC”。后经过美国法院判决，推翻并吊销了莫科里的专利，“现代计算机的基本想法是来自约翰-文森特-阿坦纳索夫。
 
@@ -55,26 +55,26 @@
 
 ## 塔式服务器(Tower) :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;外形以及结构和平时使用的台式电脑相似，性能强劲，扩展性好。  
-![103dell塔式服务器](103dell塔式服务器.png)  
+![103dell塔式服务器](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/103dell塔式服务器.png)  
 
 ## 普通x86机架服务器(Rack) :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主流的商用服务器，厚度以U为单位，1U=1.75英寸=44.45毫米，通常1U，2U，3U，4U，5U，7U几种标准的服务器。  
-![104dellx86服务器](104dellx86服务器.png)
+![104dellx86服务器](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/104dellx86服务器.png)
 
 ## 刀片服务器(Blade) :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在标准高度的机架式机箱内可插装多个卡式的服务器单元，实现高可用和高密度。更高的密度，集中管理，高性能，灵活扩展，按需配置。可以使用系统软件将这些母板集合成一个服务器集群。在集群模式下，所有的母板可以连接起来提供高速的网络环境，并同时共享资源，为相同的用户群服务
-![105dell刀片服务器](105dell刀片服务器.png) 
+![105dell刀片服务器](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/105dell刀片服务器.png) 
 
 
 ## 机架、机房 :
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;服务器在机房的机架上运行，机房提供电力，网络，空调等必要资源。    
 
 机架  
-![1061机架](1061机架.png)  
+![1061机架](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/1061机架.png)  
 
 机房  
-![1062机房](1062机房.png) 
-![106机架](106机架.png) 
+![1062机房](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/1062机房.png) 
+![106机架](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/106机架.png) 
 
 
  
@@ -89,7 +89,7 @@
 > * RAID卡
 > * 硬盘
 > * 网卡  
-![107服务器硬件构成](107服务器硬件构成.png)
+![107服务器硬件构成](https://github.com/CuteFishCat/Linux-stars/blob/master/src/image/107服务器硬件构成.png)
 
 
 
